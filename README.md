@@ -1,4 +1,4 @@
-!['WP Pusher'](http://ps.w.org/wp-pusher/assets/banner-772x250.png?rev=1052789)
+!['WP Pusher'](http://plugins.svn.wordpress.org/wp-pusher/assets/banner-772x250.png)
 
 # WP Pusher Documentation
 

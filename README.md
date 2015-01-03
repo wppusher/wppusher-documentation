@@ -14,4 +14,6 @@ Actual support is only offered to users of the [PRO version](http://wppusher.com
 
 However, if you experience any misbehaviour or have suggestions, you are very welcome to [open an issue](https://github.com/petersuhm/wppusher-documentation/issues) on GitHub.
 
+---
+
 Copyright &copy; 2015 [WP Pusher.com](http://wppusher.com)

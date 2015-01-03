@@ -1,6 +1,6 @@
-!['WP Pusher'](https://pbs.twimg.com/profile_banners/2835832711/1420222378/1500x500)
-
 # WP Pusher Documentation
+
+!['WP Pusher'](https://pbs.twimg.com/profile_banners/2835832711/1420222378/1500x500)
 
 This is the official documentation for the [WP Pusher WordPress plugin](http://wppusher.com).
 

@@ -11,5 +11,3 @@ Installing and setting up WP Pusher on a WordPress installation is really easy. 
 * If asked, confirm that you want to install the plugin by clicking 'OK'
 * When the plugin is successfully installed, click the 'Activate Plugin' link
 * If WP Pusher was successfully installed, you should now see a menu item called 'WP Pusher' in the sidebar of the dashboard
-
-![Install WP Pusher](https://dl.dropboxusercontent.com/content_link/o28RjRE3vw5DHUlVNa4SwvFdUA6UhCGJHsivGAZslCQoCSqptr0v7cvcgSQk6ttj)

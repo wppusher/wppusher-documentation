@@ -1,6 +1,8 @@
+!['WP Pusher'](ps.w.org/wp-pusher/assets/banner-772x250.png?rev=1052789)
+
 # WP Pusher Documentation
 
-This is the official documentation for [WP Pusher WordPress plugin](http://wppusher.com).
+This is the official documentation for the [WP Pusher WordPress plugin](http://wppusher.com).
 
 ## Where to start
 

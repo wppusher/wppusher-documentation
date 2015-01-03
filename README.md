@@ -1,4 +1,4 @@
-!['WP Pusher'](banner-772x250.png)
+!['WP Pusher'](https://pbs.twimg.com/profile_banners/2835832711/1420222378/1500x500)
 
 # WP Pusher Documentation
 

@@ -13,3 +13,19 @@ Installing and setting up WP Pusher on a WordPress installation is really easy. 
 * If WP Pusher was successfully installed, you should now see a menu item called 'WP Pusher' in the sidebar of the dashboard
 
 ![Install WP Pusher](https://cloud.githubusercontent.com/assets/1430546/5602678/be84b804-935e-11e4-9afd-aca747bcccb9.png)
+
+## Setup
+
+_Coming soon_
+
+### GitHub
+
+### Bitbucket
+
+## Installing packages
+
+_Coming soon_
+
+## Managing packages
+
+_Coming soon_

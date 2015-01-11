@@ -23,11 +23,15 @@ Installing and setting up WP Pusher on a WordPress installation is really easy. 
 
 ## Setup
 
-_Coming soon_
+WP Pusher **only** requires setup if you are using private repositories.
 
 ### GitHub
 
+If you are using private GitHub repositories for your themes or plugins, WP Pusher will need a token to access those. You can see GitHub's guide for creating access tokens [here](https://help.github.com/articles/creating-an-access-token-for-command-line-use/). WP Pusher only needs access to `repo` and `public_repo` in order to work.
+
 ### Bitbucket
+
+Bitbucket, like GitHub, does _not_ support downloading zipballs with a token. Therefore, if you are using private repositories on Bitbucket, WP Pusher will need a username and a password. **We strongly recommend** that you create a seperate user on Bitbucket that has **read-only access** to your repositories and use this with WP Pusher.
 
 ## Installing packages
 

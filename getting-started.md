@@ -2,7 +2,7 @@
 
 Installing and setting up WP Pusher on a WordPress installation is really easy. This short guide will help you get started.
 
-* [Installation](#installation-from-wordpress.org)
+* [Installation](#installation-from-wordpressorg)
 * [Setup](#setup)
   * [GitHub](#github)
   * [Bitbucket](#bitbucket)

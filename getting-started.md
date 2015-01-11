@@ -45,4 +45,4 @@ Installing packages (themes or plugins) with WP Pusher is very simple. From the 
 
 Packages can be managed and updates by navigating from the left side menu to "WP Pusher" -> "All plugins / themes". From here you can edit the repository name or manually update the package. By clicking "Update plugin / theme", WP Pusher will fetch the newest version of the repository and install it on WordPress.
 
-If you have bought a WP Pusher Pro license, you can also choose wheth to enable [push to deploy](/push-to-deploy.md).
+If you have bought a WP Pusher Pro license, you can also choose to enable [push to deploy](/push-to-deploy.md).

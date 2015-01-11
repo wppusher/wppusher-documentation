@@ -2,14 +2,14 @@
 
 Installing and setting up WP Pusher on a WordPress installation is really easy. This short guide will help you get started.
 
-* [Installation](#installation)
+* [Installation](#installation-from-wordpress.org)
 * [Setup](#setup)
   * [GitHub](#github)
   * [Bitbucket](#bitbucket)
 * [Installing packages](#installing-packages)
 * [Managing packages](#managing-packages)
 
-## Installation
+## Installation from WordPress.org
 
 * Log in to your WordPress dashboard and navigate to the 'Plugins' page
 * Click the 'Add New' button in the top of the page

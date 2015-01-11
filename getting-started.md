@@ -35,8 +35,14 @@ Bitbucket, like GitHub, does _not_ support downloading zipballs with a token. Th
 
 ## Installing packages
 
-_Coming soon_
+Installing packages (themes or plugins) with WP Pusher is very simple. From the left side menu in your WordPress dashboard, navigate to "WP Pusher" -> "New plugin / theme". Here, you need to specify 3 options:
+
+1. The repository handle: {GitHub or Bitbucket username}/{Repository name}. Example: petersuhm/hello-user-wordpress-plugin.
+2. Whether the repository is hosted on GitHub or Bitbucket.
+3. Whether the repository is private.
 
 ## Managing packages
 
-_Coming soon_
+Packages can be managed and updates by navigating from the left side menu to "WP Pusher" -> "All plugins / themes". From here you can edit the repository name or manually update the package. By clicking "Update plugin / theme", WP Pusher will fetch the newest version of the repository and install it on WordPress.
+
+If you have bought a WP Pusher Pro license, you can also choose wheth to enable [push to deploy](/push-to-deploy).

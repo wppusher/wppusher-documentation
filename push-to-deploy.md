@@ -2,6 +2,7 @@
 
 * [GitHub setup](#github-setup)
 * [Bitbucket setup](#bitbucket-setup)
+* [GitLab setup](#gitlab-setup)
 
 If you have a WP Pusher Pro license, you can enable push to deploy for your packages. Push to deploy means that WP Pusher will automatically update your themes and plugins whenever you push to either GitHub or Bitbucket. This works by GitHub or Bitbucket sending a POST request to a special URL on your WordPress site (a webhook) whenever something is changed.
 

@@ -6,7 +6,6 @@ This is the official documentation for the [WP Pusher WordPress plugin](http://w
 
 ## Where to start
 
-* Download the plugin from the [WordPress.org repository](https://wordpress.org/plugins/wp-pusher/)
 * Read the [getting started](getting-started.md) article
 * Read about [push to deploy](/push-to-deploy.md)
 * Read about [hooks](/hooks.md)

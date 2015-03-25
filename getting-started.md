@@ -11,15 +11,7 @@ Installing and setting up WP Pusher on a WordPress installation is really easy. 
 
 ## Installation from WordPress.org
 
-* Log in to your WordPress dashboard and navigate to the 'Plugins' page
-* Click the 'Add New' button in the top of the page
-* Type in 'WP Pusher' in the 'Search Plugins' field
-* Identify the WP Pusher plugin on the list and click 'Install Now'
-* If asked, confirm that you want to install the plugin by clicking 'OK'
-* When the plugin is successfully installed, click the 'Activate Plugin' link
-* If WP Pusher was successfully installed, you should now see a menu item called 'WP Pusher' in the sidebar of the dashboard
-
-![Install WP Pusher](https://cloud.githubusercontent.com/assets/1430546/5602678/be84b804-935e-11e4-9afd-aca747bcccb9.png)
+_WP Pusher is no longer available through WordPress.org_
 
 ## Setup
 
@@ -33,6 +25,10 @@ If you are using private GitHub repositories for your themes or plugins, WP Push
 
 Bitbucket, like GitHub, does _not_ support downloading zipballs with a token. Therefore, if you are using private repositories on Bitbucket, WP Pusher will need a username and a password. **We strongly recommend** that you create a seperate user on Bitbucket that has **read-only access** to your repositories and use this with WP Pusher.
 
+### GitLab
+
+If you are using GitLab, you will have to add your personal token to WP Pusher. You find the token under "Settings" > "Account". You also have to insert the base url for your GitLab installation. It default to "https://gitlab.com".
+
 ## Installing packages
 
 Installing packages (themes or plugins) with WP Pusher is very simple. From the left side menu in your WordPress dashboard, navigate to "WP Pusher" -> "New plugin / theme". Here, you need to specify 3 options:
@@ -40,6 +36,7 @@ Installing packages (themes or plugins) with WP Pusher is very simple. From the 
 1. The repository handle: {GitHub or Bitbucket username}/{Repository name}. Example: petersuhm/hello-user-wordpress-plugin.
 2. Whether the repository is hosted on GitHub or Bitbucket.
 3. Whether the repository is private.
+4. You can optionally select "Dry run", which means that the plugin won't actually be installed. It will just be added to the packages that WP Pusher controls. This is useful for already installed plugins. If you choose this option, be aware that the folder name fo the package must exactly match the slug of the repository.
 
 ## Managing packages
 

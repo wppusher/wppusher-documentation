@@ -11,9 +11,9 @@ This is the official documentation for the [WP Pusher WordPress plugin](http://w
 * Read about [hooks](/hooks.md)
 
 ## Need help
-Actual support is only offered to users of the [PRO version](http://wppusher.com/pro).
+Actual support is only offered to users with a [license](http://wppusher.com/#licenses).
 
-However, if you experience any misbehaviour or have suggestions, you are very welcome to [open an issue](https://github.com/petersuhm/wppusher-documentation/issues) on GitHub.
+However, if you experience any misbehaviour or have suggestions, you are very welcome to send an [e-mail](mailto:support@wppusher.com) or [open an issue](https://github.com/wppusher/wppusher-documentation/issues) on GitHub.
 
 ---
 

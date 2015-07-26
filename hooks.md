@@ -12,8 +12,8 @@ You can use an action like this:
 ```php
 add_action('wppusher_theme_was_installed', 'doSomethingAfterThemeHasBeenInstalled', 10, 1);
 
-doSomethingAfterThemeHasBeenInstalled($stylesheet)
+doSomethingAfterThemeHasBeenInstalled(ThemeWasInstalled $action)
 {
-    var_dump($stylesheet);
+    var_dump($action->theme);
 }
 ```

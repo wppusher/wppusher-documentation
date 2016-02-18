@@ -11,9 +11,13 @@ Each plugin or theme has its own unique Push-to-Deploy URL. This URL is listen u
 
 ## GitHub setup
 
+_This step is now handled by WP Pusher. You only need to read this if you want to manually set up a webhook._
+
 In order to set up a webhook, navigate to the settings page of your GitHub repository. Go to "Webhooks & Services" and click "Add webhook". Paste the "Push to deploy URL" in the field "Payload URL", leave the defaults and click "Add webhook". Now, the only thing you need is to make sure Push-to-Deploy is enabled for the particular plugin or theme in WP Pusher.
 
 ## Bitbucket setup
+
+_This step is now handled by WP Pusher. You only need to read this if you want to manually set up a webhook._
 
 In order to set up a webhook, navigate to the settings page of your Bitbucket repository. Go to "Integrations" -> "Webhooks" and click "Add webhook". Enter a name and paste the Push-to-Deploy URL. Click "Save". Now, the only thing you need is to make sure Push-to-Deploy is enabled for the particular plugin or theme in WP Pusher.
 
